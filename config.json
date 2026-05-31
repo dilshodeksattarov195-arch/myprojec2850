@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdrocess",
+        "uuid": 3622350,
+        "checksum": "pox82p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
